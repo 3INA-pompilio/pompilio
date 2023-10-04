@@ -16,7 +16,7 @@ public class Quadrato {
         
     }
     
-    public double perimetro(){
+    public double perimetro(){ //funzione per calcolare il perimetro
         double perimetro;
         perimetro = l * 4;
         return perimetro;
